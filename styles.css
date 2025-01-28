@@ -31,7 +31,18 @@ button {
     padding: 10px;
     margin-bottom: 10px;
 }
+#resetGrid {
+    display: flex;
+    width: 100px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+}
 
+
+/*
 #onlyBlack {
     background-color: black;
     color: white;
@@ -47,13 +58,4 @@ button {
 #randomColor {
     background-color: silver;
     color: gray;
-}
-#resetGrid {
-    display: flex;
-    width: 100px;
-    height: 40px;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-    padding: auto;
-}
+} */
