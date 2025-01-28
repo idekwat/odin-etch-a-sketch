@@ -1,1 +1,3 @@
-# odin-etch-a-sketch
+Odin project where you have to create a grid where you can set how many cells are in the grid from 1 to 100 without changing the original size of grid container.
+Another feature is where the cells change color when the user's mouse is hovering about it. I chose to do the random colors for now, but I plan to one day add buttons that can change 
+the desired input between black, greyscale, white, and random button.
